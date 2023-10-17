@@ -1,7 +1,7 @@
 // import { useState } from 'react';
 import { Link } from 'react-scroll';
 import Logo from '../Logo/Logo';
-import styles from '../../styles/header.module.scss';
+import styles from '../../api/styles/header.module.scss';
 // import stylesMenu from '../../styles/mobileMenu.module.scss';
 
 const Header = () => {
