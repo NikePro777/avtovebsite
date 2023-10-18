@@ -1,11 +1,12 @@
 import './api/styles/globals.css';
+import Head from 'next/head';
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Gaijam',
+  title: 'Gaijam F1',
   description: 'дорогие авто - дешево',
 };
 
