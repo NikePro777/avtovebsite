@@ -1,11 +1,12 @@
 // import styles from '../app/api/styles/Home.module.css';
 
+import Header from './components/Header/Header';
+
 const Home = () => {
   return (
     <>
-      {/* <main></main> */}
-
-      <h1>head</h1>
+      <main></main>
+      <Header />
       <div className="background-animation">
         <div id="ball-one"></div>
         <div id="ball-two"></div>
